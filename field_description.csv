@@ -1,0 +1,38 @@
+Field,Field Type,Description
+dbq_prd_type,Fixed value,REAL-ESTATE-BASIC
+website_name,Fixed value,https://www.sreality.cz
+competence_date,Formula,DD-MM-YYYY
+listing_title,From website,Listing title exactly as it appears on website
+listing_description,From website,"Longer description, when available"
+property_type,From website,"House, apartment, box, etc"
+country_code,Fixed value,ISO 3 letter country code
+location_description,From website,"Description of location (string), when no structured info is available"
+location_region,From website,"Region or State, if available"
+location_long,From website,"Full location address, if available"
+location_province,From website,"Province, or country, if available"
+location_city,From website,"City, if available"
+location_street,From website,"Street, if available"
+location_lon,From website,"Longitude, if available"
+area_unit,Fixed value,"One of the following: SQFT, SQMT for square foot or square meters"
+total_area,From website,"The total land or plot area associated with the property, which may include gardens, driveways, or other open spaces. Typically measured in square meters (SQMT) or square feet (SQFT)."
+usable_area,From website,"The actual livable or usable area within the property, excluding walls and non-livable spaces such as balconies or common areas."
+built_up_area,From website,"Total covered area of the property, including walls, balconies, and other constructed spaces. Typically measured in square meters (SQMT) or square feet (SQFT)."
+floor_location,From website,"Specifies the floor number where the property is located, especially relevant for apartments or multi-story buildings. Examples: ground floor, 5th floor."
+amenities_list,From website,"All amenities listed (balcony, terrace, A/C, heating, etc.), all in the same field. Specify in documentation how to identify them."
+energy_intensity,From website,"Measures the energy efficiency of the property, often denoted by a rating. Indicates energy consumption and sustainability."
+construction,From website,"Full construction information, if available."
+construction_type,From website,"The type of building structure or material used, e.g., brick, concrete, steel, or mixed materials. Indicates the overall build quality and durability of the property."
+construction_status,From website,"Indicates the current state of construction, e.g., completed, under construction, planned, or in renovation."
+listing_date,From website,Original date the property was listed (DD-MM-YYYY).
+listing_date_updated,From website,Date the listing was last updated (DD-MM-YYYY).
+agent_url,From website,"URL of agent page, if applicable."
+currency_code,Fixed value,ISO 3 letter currency code. This must be consistent with currency code expected for the country.
+price,From website,"Property price (numeric, precision up to 2 decimals)."
+note_on_price,From website,"Additional price-related details (e.g., negotiable, includes VAT)."
+agent_name,From website,Name of the real estate agent or agency.
+agent_website,From website,Agent’s official website.
+agent_email,From website,Email address of the agent.
+agent_phone1,From website,Primary contact number for the agent.
+agent_phone2,From website,Secondary contact number for the agent (if available).
+image_url,From website,URL of primary image of listing.
+item_url,From website,URL of detail page of listing.
