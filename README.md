@@ -2,6 +2,9 @@
 
 The **Sreality Scraper** is designed to extract comprehensive real estate data from the [Sreality.cz](https://www.sreality.cz) website. It provides structured information for property listings, making it valuable for market research, real estate analysis, and business applications. The dataset contains diverse fields capturing property details, location, agent information, and more.
 
+![Sreality Dashboard](https://github.com/Anzywiz/sreality-scraper/blob/main/images/sreality_dashboard.png)
+
+
 ---
 
 ## 📚 **Table of Contents**
