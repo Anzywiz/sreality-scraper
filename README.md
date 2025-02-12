@@ -72,7 +72,7 @@ python main.py
 ```
 
 When prompted, enter the number corresponding to the property type you want to scrape.
-The scraped data would be in the *data* directory
+The scraped data would be in the **data** directory
 
 *(Refer to the image below for guidance on selecting property types.)*
 
@@ -86,7 +86,7 @@ Stay tuned for updates and improvements!
 
 ## 🛠 **Issues & Contributions**
 
-If you encounter any issues, please report them in the **Issues** section of the repository.
+If you encounter any issues, please report them in the [**Issues**](https://github.com/Anzywiz/sreality-scraper/issues) section of the repository.
 
 💡 Want to improve the bot? Fork the repository, make your changes, and submit a **pull request (PR)**! Contributions are always welcome.
 
