@@ -22,7 +22,9 @@ The **Sreality Scraper** is designed to extract comprehensive real estate data f
 
 ## 📊 **Sample Data**
 
-A **sample dataset** containing 20 rows is provided in this repository for demonstration purposes. It showcases the structure and quality of the extracted data.
+A **sample dataset** containing 20 rows is provided in this repository for demonstration purposes. It showcases the structure and quality of the extracted data. 
+![Sample data](https://github.com/Anzywiz/sreality-scraper/blob/main/sreality_sample.xlsx)
+
 
 ---
 
