@@ -72,6 +72,7 @@ python main.py
 ```
 
 When prompted, enter the number corresponding to the property type you want to scrape.
+The scraped data would be in the *data* directory
 
 *(Refer to the image below for guidance on selecting property types.)*
 
@@ -102,7 +103,7 @@ This project is licensed under the **MIT License**.
 For inquiries or support, feel free to reach out:
 
 - **Telegram Group:** [Join the chat](https://t.me/bot_arena_chat)
-- **Email:** [ifeanyiwebapp@gmail.com](mailto:ifeanyiwebapp@gmail.com)
+- **Email:** [ifeanyi.webapp@gmail.com](mailto:ifeanyi.webapp@gmail.com)
 
 ---
 
