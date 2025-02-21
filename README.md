@@ -1,4 +1,5 @@
 ![Sreality Dashboard](https://github.com/Anzywiz/sreality-scraper/blob/main/images/sreality_dashboard.png)
+![Bot Dashboard](https://github.com/Anzywiz/sreality-scraper/blob/main/images/bot_display.png)
 
 # Sreality Scraper
 
